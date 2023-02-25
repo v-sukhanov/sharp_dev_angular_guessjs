@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunksharp_dev_angular_guessjs=self.webpackChunksharp_dev_angular_guessjs||[]).push([[33],{33:(p,u,t)=>{t.r(u),t.d(u,{TwoModule:()=>n});var c=t(895),o=t(256);class s{}s.\u0275fac=function(e){return new(e||s)},s.\u0275cmp=o.Xpm({type:s,selectors:[["app-two"]],decls:2,vars:0,template:function(e,r){1&e&&(o.TgZ(0,"p"),o._uU(1,"two works!"),o.qZA())}});var l=t(322);class n{}n.\u0275fac=function(e){return new(e||n)},n.\u0275mod=o.oAB({type:n}),n.\u0275inj=o.cJS({imports:[c.ez,l.Bz.forChild([{path:"",component:s}])]})}}]);
+__GUESS__.p()
